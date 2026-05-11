@@ -13,7 +13,7 @@ export default function Projects() {
         <p><b>Tech:</b> React, LocalStorage (MERN Concept)</p>
 
         <a
-          href="https://bright-cobbler-d410aa.netlify.app/"
+          href="https://sms-mbpi.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
@@ -63,7 +63,7 @@ export default function Projects() {
         <p><b>Tech:</b> HTML, CSS (Tailwind Concept)</p>
 
         <a
-          href="https://venerable-centaur-42f3e5.netlify.app/"
+          href="https://ultras-fake.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
@@ -74,7 +74,7 @@ export default function Projects() {
       <div className="card">
         <h3>Nature Web Project</h3>
         <p>
-          A standalone CSS-based CRUD application for selling burgers data.
+          A standalone CSS-based CRUD application for connecting people with nature.
         </p>
         <p><b>Tech:</b> HTML, CSS (Vanilla Css Concept)</p>
 
@@ -109,7 +109,7 @@ export default function Projects() {
       <div className="card">
         <h3>Bank Calculator</h3>
         <p>
-          A standalone JS-based CRUD application to showcase ecommerce products.
+          A standalone JS-based CRUD application to calculate bank accounts.
         </p>
         <p><b>Tech:</b> HTML, CSS, JS (Vanilla JS Concept)</p>
 
@@ -125,7 +125,7 @@ export default function Projects() {
       <div className="card">
         <h3>Geometry Calculator Project</h3>
         <p>
-          A standalone JS-based CRUD application for selling burgers data.
+          A standalone JS-based CRUD application for calculating geometry.
         </p>
         <p><b>Tech:</b> HTML, CSS, JS (Vanilla JS Concept)</p>
 
@@ -138,14 +138,64 @@ export default function Projects() {
         </a>
       </div>
       <div className="card">
-        <h3>Summer Sale Tailwind project</h3>
+        <h3>Wayne watch smart website</h3>
         <p>
-          A standalone CSS-based CRUD application for managing student data.
+          A standalone React-based CRUD application for showcasing watch collections.
         </p>
-        <p><b>Tech:</b> HTML, CSS(Tailwind Concept)</p>
+        <p><b>Tech:</b> React, Tailwind CSS(Tailwind Concept)</p>
 
         <a
-          href="https://habibreza98.github.io/summer-sale-website/"
+            href="https://wayne-watch.vercel.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <button>Open Project</button>
+        </a>
+      </div>
+    </div>
+    <div className="pages">
+      
+
+      <div className="card">
+        <h3>Note making app</h3>
+        <p>
+            A standalone React-based CRUD application to making notes for necessary.
+        </p>
+        <p><b>Tech:</b> React, Tailwind CSS (React JS Concept)</p>
+
+        <a
+            href="https://note-app-weld-five.vercel.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <button>Open Project</button>
+        </a>
+      </div>
+
+      <div className="card">
+        <h3>Kapslock web project</h3>
+        <p>
+          A standalone React-based CRUD application for displaying data security software.
+        </p>
+        <p><b>Tech:</b> React, Tailwind CSS (React JS Concept)</p>
+
+        <a
+            href="https://kapslock-ebon.vercel.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <button>Open Project</button>
+        </a>
+      </div>
+      <div className="card">
+        <h3>Electronic gadget smart website</h3>
+        <p>
+          A standalone React-based CRUD application for showcasing electronic items collections.
+        </p>
+        <p><b>Tech:</b> React, Tailwind CSS(React JS Concept)</p>
+
+        <a
+            href="https://exclusive-react-5a38.vercel.app/"
           target="_blank"
           rel="noreferrer"
         >

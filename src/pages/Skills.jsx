@@ -4,7 +4,7 @@ export default function Skills() {
     { name: "CSS", percent: 85 },
     { name: "JavaScript", percent: 75 },
     { name: "Tailwind CSS", percent: 80 },
-    { name: "React.js", percent: 70 },
+    { name: "MERN", percent: 70 },
     { name: "Figma", percent: 60 },
   ];
 

@@ -3,8 +3,8 @@ import personalImg from '../assets/personal_pic.png'
 import elementImg from '../assets/figma-icon.png'
 import element2Img from '../assets/react.svg'
 import element3Img from '../assets/vs-code.svg'
-import { FaRegArrowAltCircleDown } from "react-icons/fa";
-import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa6";
+import { FaGithub, FaLinkedin, FaRegArrowAltCircleDown } from "react-icons/fa";
+import { FaFacebook, FaLinkedinIn, } from "react-icons/fa6";
 
 export default function Home() {
 
@@ -53,10 +53,10 @@ export default function Home() {
           </p>
 
           <div className="btn">
-            <button className='left_btn'>Hire Me</button>
-            <button className='right_btn'>
+            <a target="_blank" href="mailto:habibadnanr18@gmail.com" className='left_btn'>Hire Me</a>
+            <a target="_blank" href="https://rb.gy/c066hv" className='right_btn'>
               Download CV <FaRegArrowAltCircleDown />
-            </button>
+            </a>
           </div>
         </div>
 
@@ -65,9 +65,9 @@ export default function Home() {
         </div>
 
         <div className="home_icons">
-          <a href='#'><FaFacebook /></a>
-          <a href='#'><FaTwitter /></a>
-          <a href='#'><FaInstagram /></a>
+          <a target="_blank" href='https://web.facebook.com/md.habib.reza.37'><FaFacebook /></a>
+          <a target="_blank" href='https://www.linkedin.com/in/habib-reza-rabbi-1a244b23b/'><FaLinkedin /></a>
+          <a target="_blank" href='https://github.com/habibreza98'><FaGithub /></a>
         </div>
       </div>
       <div className="element_img">
